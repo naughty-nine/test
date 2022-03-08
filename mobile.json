@@ -1,8 +1,12 @@
 {
-  "com.protege.expert": {
-    "minimumVersion": "0.5.0"
-  },
-  "com.protege.android.expert": {
-    "minimumVersion": "1.2.2"
-  }
+	[
+		{ 
+			"name": "com.protege.expert",
+			"minimumVersion": "1.2.3",
+		},
+		{
+			"name": "com.protege.android.expert",
+			"minimumVersion": "1.2.1"
+		}
+	]
 }
